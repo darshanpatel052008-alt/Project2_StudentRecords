@@ -1,0 +1,17 @@
+# Compiled Java execution files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# VS Code directory settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
